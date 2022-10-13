@@ -17,6 +17,9 @@ export class AppHome {
         <stencil-route-link url="/profile/stencil">
           <button>Profile page</button>
         </stencil-route-link>
+        <stencil-route-link url="/profile/hello">
+          <button>hello</button>
+        </stencil-route-link>
         {/* <stencil-route-link url="/profile/devdays2022">
           <button>Dev Days 2022</button>
         </stencil-route-link> */}
